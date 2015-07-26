@@ -13,6 +13,12 @@ related:
   - Prison life: https://www.gov.uk/life-in-prison
   - Find a prison: https://www.gov.uk/find-prisoner
   more: https://www.gov.uk/browse/justice/prisons-probation
+previous:
+  text: Banned items
+  link: http://www.gov.uk/staying-in-touch-with-someone-in-prison/banned-items
+next:
+  text: Visiting someone in prison
+  link: http://www.gov.uk/staying-in-touch-with-someone-in-prison/visiting-someone-in-prison
 ---
 
 You can use your bank account to send money to a prisoner. You'll need:
